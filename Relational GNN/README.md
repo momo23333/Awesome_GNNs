@@ -1,5 +1,5 @@
 # Relational Graph Nerual Network
 
 There are serveral works about relational GNN, including:
-- [Modeling Relational Data with Graph Convolutional Networks (R-GCN)](https://arxiv.org/abs/1703.06103)
+- [Modeling Relational Data with Graph Convolutional Networks (R-GCN)](https://arxiv.org/abs/1703.06103.pdf)
 - [Relation-Dependent Sampling for Multi-Relational Link Prediction (RS/RM-GCN)](https://grlplus.github.io/papers/74.pdf)
